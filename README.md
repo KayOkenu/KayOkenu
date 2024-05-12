@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @KayOkenu
-- Welcome to my GitHub profile!
-- 👀 I am a enthusiastic data analyst driven by discovering insights and guiding data-informed decisions. I am energised by the possibilities of data analytics to transform businesses and enhance decision-making processes.
-
-
-Welcome to my GitHub profile! I am a enthusiastic data analyst driven by discovering insights and guiding data-informed decisions. I am energised by the possibilities of data analytics to transform businesses and enhance decision-making processes.
+  Welcome to my GitHub profile!
+- 👀 I am an enthusiastic data analyst driven by discovering insights and guiding data-informed decisions. I am energised by the possibilities of data analytics to transform businesses and enhance decision-making processes.
 
 🛠** Technical Skills**
 Languages: SQL
