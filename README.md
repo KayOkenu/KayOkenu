@@ -12,11 +12,11 @@
 
 - 💞️ I’m looking to collaborate on group projects with very large datasets, using SQL, Tableau, PowerBI and Excel
 
-- 📫 How to reach me: jenniferokenu@gmail.com
+- 📫 How to reach me: keneokenu@gmail.com
 
 - 😄 Pronouns: she/her.
 
-- ⚡ Fun fact: I'm completely self-learning and very interested in data and data sytems as a whole! I'm a newbie and I'm currently trying to get the hang of it all.
+- ⚡ Fun fact: I'm completely self-learning and very interested in data and data sytems as a whole and I'm currently trying to get the hang of it all!
 
 <!---
 KayOkenu/KayOkenu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
